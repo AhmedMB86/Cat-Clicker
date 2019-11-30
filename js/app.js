@@ -54,7 +54,7 @@
 
 var Perant = document.body.innerHTML = '';
 
-var nums = [1];
+var nums = [1,2,3,4,5];
 
 // Let's loop over the numbers in our array
 for (var i = 0; i < nums.length; i++) {

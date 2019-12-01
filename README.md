@@ -15,4 +15,4 @@ To get started, open `js/app.js` and start to find out the app's functionality
 
 ## Contributing
 
-This repository is Simpol Examble code for event listener javascript. 
+This repository is Sample  code for event listener javascript. 
